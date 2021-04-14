@@ -1,0 +1,36 @@
+body {
+	font-family: Courier New;
+	font-size: 18px;
+	color: #660033;
+}
+
+a {
+	color: #9933FF;
+	text-decoration-line: none;
+}
+
+p {
+	color: #A23B11;
+	background-color: rgba(255, 178, 102, 0.3);
+}
+
+h2{
+	color: #FF9933;
+	background-color: rgba(102, 255,178, 0.3);
+}
+
+h3{
+	color: #FF9933;
+	background-color: rgba(102, 255,178, 0.3);
+}
+
+h4{
+	color: #FF9933;
+	background-color: rgba(102, 255,178, 0.3);
+}
+
+
+
+
+
+
